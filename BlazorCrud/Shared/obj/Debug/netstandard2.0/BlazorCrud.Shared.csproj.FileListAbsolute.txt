@@ -1,0 +1,18 @@
+C:\Users\Rupesh\Desktop\employee-management-blazor-master\BlazorCrud\BlazorCrud\Shared\bin\Debug\netstandard2.0\BlazorCrud.Shared.deps.json
+C:\Users\Rupesh\Desktop\employee-management-blazor-master\BlazorCrud\BlazorCrud\Shared\bin\Debug\netstandard2.0\BlazorCrud.Shared.dll
+C:\Users\Rupesh\Desktop\employee-management-blazor-master\BlazorCrud\BlazorCrud\Shared\bin\Debug\netstandard2.0\BlazorCrud.Shared.pdb
+C:\Users\Rupesh\Desktop\employee-management-blazor-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.0\BlazorCrud.Shared.csprojAssemblyReference.cache
+C:\Users\Rupesh\Desktop\employee-management-blazor-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.0\BlazorCrud.Shared.AssemblyInfoInputs.cache
+C:\Users\Rupesh\Desktop\employee-management-blazor-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.0\BlazorCrud.Shared.AssemblyInfo.cs
+C:\Users\Rupesh\Desktop\employee-management-blazor-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.0\BlazorCrud.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Rupesh\Desktop\employee-management-blazor-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.0\BlazorCrud.Shared.dll
+C:\Users\Rupesh\Desktop\employee-management-blazor-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.0\BlazorCrud.Shared.pdb
+C:\Users\High Tech\Desktop\new\employee-management-blazor-master\BlazorCrud\BlazorCrud\Shared\bin\Debug\netstandard2.0\BlazorCrud.Shared.deps.json
+C:\Users\High Tech\Desktop\new\employee-management-blazor-master\BlazorCrud\BlazorCrud\Shared\bin\Debug\netstandard2.0\BlazorCrud.Shared.dll
+C:\Users\High Tech\Desktop\new\employee-management-blazor-master\BlazorCrud\BlazorCrud\Shared\bin\Debug\netstandard2.0\BlazorCrud.Shared.pdb
+C:\Users\High Tech\Desktop\new\employee-management-blazor-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.0\BlazorCrud.Shared.AssemblyInfoInputs.cache
+C:\Users\High Tech\Desktop\new\employee-management-blazor-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.0\BlazorCrud.Shared.AssemblyInfo.cs
+C:\Users\High Tech\Desktop\new\employee-management-blazor-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.0\BlazorCrud.Shared.csproj.CoreCompileInputs.cache
+C:\Users\High Tech\Desktop\new\employee-management-blazor-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.0\BlazorCrud.Shared.dll
+C:\Users\High Tech\Desktop\new\employee-management-blazor-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.0\BlazorCrud.Shared.pdb
+C:\Users\High Tech\Desktop\new\employee-management-blazor-master\BlazorCrud\BlazorCrud\Shared\obj\Debug\netstandard2.0\BlazorCrud.Shared.csprojAssemblyReference.cache

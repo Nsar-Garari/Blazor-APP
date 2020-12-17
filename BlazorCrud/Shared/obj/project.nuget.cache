@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3fPJYs+8b/TyjmhaDn6qPlj5YNz/qWy1yF8Qzxy9fORR3n9IubMC5ZuGGOR2z9decICUm/8vQpOyGRYTwITi2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\High Tech\\Desktop\\new\\employee-management-blazor-master\\BlazorCrud\\BlazorCrud\\Shared\\BlazorCrud.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\High Tech\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\High Tech\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\High Tech\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0-preview3.19551.4\\system.componentmodel.annotations.4.7.0-preview3.19551.4.nupkg.sha512"
+  ],
+  "logs": []
+}
